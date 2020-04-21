@@ -1,4 +1,7 @@
 defmodule SysInfoStats.Cpu do
+  @moduledoc """
+  This is the Cpu module. Got some inspiration from https://github.com/zeam-vm/cpu_info kudos.
+  """
 
   alias SysInfoStats.Utils
 
